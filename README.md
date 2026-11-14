@@ -4,7 +4,7 @@ I'm Nana, lovely to meet you! I'm a speech-language pathologist with a PhD in th
 
 I've worked with adults with neurological conditions since 2004, and most of what I build comes straight out of that work. I founded Puheklinikka in 2006 and built it from the ground up. Today our team of five speech-language pathologists delivers about 2,700 therapy sessions a year. The first Sanapsis app started there as an in-house tool, and it has been on the App Store since 2012.
 
-I build tools for speech and language therapy and research. I also dabble in localization: one of my prototypes, built in Figma, helps language experts turn what they know about their locale into a configuration for customer service voice agents.
+I build tools for speech and language therapy and research. I also dabble in localization: one of my prototypes, built in Figma and shown in my [writing portfolio](https://nanalehtinen.github.io/Writing-voice-portfolio/), helps language experts turn what they know about their locale into a configuration for customer service voice agents.
 
 I love projects where clinical insight, research, and thoughtful product design come together to solve practical problems.
 
@@ -17,6 +17,7 @@ My own projects. Each one starts with a real need from therapy or research and e
 | [vft-analysis-tool-prototype](https://github.com/nanalehtinen/vft-analysis-tool-prototype) | A scoring tool for verbal fluency tasks, based on the protocol we published in [Lehtinen, Luotonen & Kautto (2023)](https://doi.org/10.1080/23279095.2021.1973471). The rule-based parts are scored automatically. The parts that need linguistic judgement stay with the researcher. [Try the demo](https://nanalehtinen.github.io/vft-analysis-tool-prototype/) | A prototype of the workflow and interface. The analysis engine is not included yet. |
 | [Sanapsis-website](https://github.com/nanalehtinen/Sanapsis-website) | The new sanapsis.com in English, Finnish and Swedish. | Live at [sanapsis.com](https://www.sanapsis.com), and updated regularly. |
 | [puheklinikka-website](https://github.com/nanalehtinen/puheklinikka-website) | puheklinikka.net rebuilt as a simple static site and moved off Squarespace. | Live at [puheklinikka.net](https://www.puheklinikka.net). |
+| [Writing portfolio](https://nanalehtinen.github.io/Writing-voice-portfolio/) | Writing samples across registers, from clinical to consumer, in English, Finnish and Swedish. Each sample comes with a content design note. | Live. |
 
 The apps themselves live in private repositories: SanapsisPro for therapists, Sanapsis+ for clients practicing on their own, and the free Sanapsis Lite. All are in English, Finnish and Swedish.
 
