@@ -29,6 +29,14 @@ Now I do the development myself, with AI assistance. I decide what the product n
 
 Commits made with AI assistance carry a `Co-Authored-By` line, so you can always see where it was used.
 
+## And what do I work with?
+
+- **Building and shipping apps:** Xcode, Android Studio, VS Code, GitHub, TestFlight, App Store Connect, Google Play Console
+- **Websites and prototypes:** GitHub Pages, Figma
+- **Research:** R, SPSS, Zotero
+
+The tools I use for writing and content design are in my [writing portfolio](https://nanalehtinen.github.io/Writing-voice-portfolio/).
+
 ## Research
 
 My PhD (University of Turku, 2025) was a Finnish-English bilingual project on language attrition and spoken-language assessment. I designed and led it across California and Finland, and it produced a corpus of over 130 recorded sessions.
