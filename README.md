@@ -8,7 +8,7 @@ In my writing I combine Nordic clarity with Californian warmth. [Samples in my w
 
 ## So what is on this profile?
 
-I build tools for speech and language therapy and research. I also dabble in solutions for localization: one of my prototypes helps language experts turn what they know about their locale into a configuration for customer service AI agents.
+I build tools for speech and language therapy and research. I also build tools that streamline localization for AI agents.
 
 The Sanapsis apps themselves are trilingual and live in private repositories: SanapsisPro for therapists, Sanapsis+ for clients practicing on their own, and the free Sanapsis Lite. The projects below are public.
 
