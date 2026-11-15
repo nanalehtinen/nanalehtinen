@@ -1,6 +1,6 @@
 # Hi there.
 
-I'm Nana, lovely to meet you! I'm a speech-language pathologist with a PhD in the field, a writer, the founder of a private speech and language clinic, Puheklinikka, that specializes in adults who live with neurological conditions, and the creator and product lead of the [Sanapsis](https://www.sanapsis.com/) apps.
+I'm Nana, lovely to meet you! I'm a speech-language pathologist with a PhD in the field, a writer, and the creator and product lead of the [Sanapsis](https://www.sanapsis.com/) apps. I'm also the founder of Puheklinikka, a private speech and language clinic that specializes in adults who live with neurological conditions.
 
 I love to write and I build tools for speech and language therapy and research. I also dabble in localization: one of my prototypes helps language experts turn what they know about their locale into a configuration for customer service voice agents. [Try the demo](https://nanalehtinen.github.io/Locale-Guidance-for-Voice-Agent-Configuration/).
 
