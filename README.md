@@ -4,13 +4,13 @@ I'm Nana, lovely to meet you! I'm a speech-language pathologist with a PhD in th
 
 I love projects where clinical insight, research, and thoughtful product design come together to solve practical problems.
 
-I build tools for speech and language therapy and research. I also dabble in solutions for localization: one of my prototypes helps language experts turn what they know about their locale into a configuration for customer service agents.
-
 In my writing I intuitively combine Nordic clarity with Californian warmth. [Samples in my writing portfolio](https://nanalehtinen.github.io/Writing-voice-portfolio/).
 
 ## So what is on this profile?
 
-My own projects. Each one starts with a real need from therapy or research and ends as something people can use.
+I build tools for speech and language therapy and research. I also dabble in solutions for localization: one of my prototypes helps language experts turn what they know about their locale into a configuration for customer service agents.
+
+The Sanapsis apps themselves live in private repositories: SanapsisPro for therapists, Sanapsis+ for clients practicing on their own, and the free Sanapsis Lite. Here you see some of my other projects.
 
 | Project | What it is | Where it stands |
 |---|---|---|
@@ -19,9 +19,6 @@ My own projects. Each one starts with a real need from therapy or research and e
 | [Sanapsis-website](https://github.com/nanalehtinen/Sanapsis-website) | The new sanapsis.com in English, Finnish and Swedish. | Live at [sanapsis.com](https://www.sanapsis.com), and updated regularly. |
 | [puheklinikka-website](https://github.com/nanalehtinen/puheklinikka-website) | puheklinikka.net rebuilt as a simple static site and moved off Squarespace. | Live at [puheklinikka.net](https://www.puheklinikka.net). |
 | [Locale Guidance for Voice Agent Configuration](https://nanalehtinen.github.io/Locale-Guidance-for-Voice-Agent-Configuration/) | A localization tool: language experts answer a questionnaire about tone, formality and empathy in their locale, and get a configuration for customer service voice agents. | A working prototype you can try. The code is private. |
-
-
-The apps themselves live in private repositories: SanapsisPro for therapists, Sanapsis+ for clients practicing on their own, and the free Sanapsis Lite. All are in English, Finnish and Swedish.
 
 ## How do I use AI in development?
 
