@@ -4,7 +4,7 @@ I'm Nana, lovely to meet you! I'm a speech-language pathologist with a PhD in th
 
 I build tools for speech and language therapy and research. See demos below. I also dabble in localization: one of my prototypes helps language experts turn what they know about their locale into a configuration for customer service voice agents.
 
-I love to write and intuitively combine Nordic clarity with Californian warmth. [Samples in my writing portfolio](https://nanalehtinen.github.io/Writing-voice-portfolio/).
+In my writing I intuitively combine Nordic clarity with Californian warmth. [Samples in my writing portfolio](https://nanalehtinen.github.io/Writing-voice-portfolio/).
 
 I love projects where clinical insight, research, and thoughtful product design come together to solve practical problems.
 
